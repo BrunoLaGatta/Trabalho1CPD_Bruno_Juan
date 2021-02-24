@@ -217,7 +217,7 @@ int main()
     }
 
     inicio = (double) clock() / CLOCKS_PER_SEC;
-    bubble_sort(vetor, TAM);
+    //bubble_sort(vetor, TAM);
     //selection_sort(vetor);
     //insertion_sort(vetor);
     //merge_sort(vetor, TAM);
